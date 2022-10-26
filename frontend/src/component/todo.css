@@ -1,0 +1,26 @@
+.card-dok {
+    margin: 5rem auto;
+    width: 80%;
+}
+
+
+/* .col-tolits {
+    padding: 5px 0;
+    border-bottom: 1px solid #333;
+} */
+
+.col-tolits>Row {
+    background-color: rgb(123, 123, 123, 1);
+}
+
+#text-list {
+    margin: auto;
+}
+
+.btn-man {
+    margin: auto;
+}
+
+.card-body {
+    background-color: rgb(123, 123, 123, 0.3);
+}
